@@ -17,7 +17,7 @@ Every input to be read starts with '../input/' <br>
 Every output starts with './'
 
 ## Pretrained models
-Pretrained models are in folder 'saved_models' which is available in https://drive.google.com/drive/folders/1-QkRSqScu6hlfdi1GKWG-UsYzumN892K?usp=sharing
+Pretrained models are in folder 'saved_models' which is available in https://drive.google.com/drive/folders/18vJXfYA0H_O8I-zzOSZUWXk-l7XRNA4w?usp=sharing
 ### For VAE model, it is named 'unet.pth'
 ### For VAE + DCGAN, there are two pretrained models
 1. 'dcgan_generator_lambda1.pth' for vae+dcgan with lambda_pixel=1
